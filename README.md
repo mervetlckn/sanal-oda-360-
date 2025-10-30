@@ -53,8 +53,8 @@ Yukarıdaki "Canlı Demo" linkine tıklayın.
 ## 📂 Proje Yapısı
 ```
 sanal-oda-360/
-├── index.html          # Ana HTML dosyası (tüm kod içinde)
-└── README.md          # Bu dosya
+├── index.html          
+└── README.md        
 ```
 
 ## 💡 Teknik Detaylar
